@@ -6,5 +6,5 @@ Serves as a centralized hub for my projects undertaken during learning at [The O
 
 Recipes of eggs—nothing special! 🥚
 
-💻 View: chessurisme.github.io/odin-recipes/
-📁 Source code: https://github.com/chessurisme/odin-recipes
+- 💻 View: chessurisme.github.io/odin-recipes/
+- 📁 Source code: https://github.com/chessurisme/odin-recipes
