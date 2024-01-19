@@ -1,4 +1,4 @@
-## Chessurisme's TOP Projects
+## Chessurisme's The Odin Projects
 
 Serves as a centralized hub for my projects undertaken during learning at [The Odin Project](theodinproject.com).
 
